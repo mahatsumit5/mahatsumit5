@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mahatsumit5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sumit Mahat. You can call me Smith.
+- 👀 I’m interested in Robust Web Development.
+- 🌱 I’m currently learning NEXTJS
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me email @ mahatsumit5@gmail.com || LinkedIn Sumit Mahat
 
 <!---
 mahatsumit5/mahatsumit5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
