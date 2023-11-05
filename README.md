@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Mahat. You can call me Smith.
 - 👀 I’m interested in Robust Web Development.
-- 🌱 I’m currently learning NEXTJS
+- 🌱 I’m currently learning NEXTJS and Prisma 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email @ mahatsumit5@gmail.com || LinkedIn Sumit Mahat
 
