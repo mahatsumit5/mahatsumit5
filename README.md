@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Mahat. You can call me Smith.
+- 👋 Hi, I’m Sumit Mahat
 - 👀 I’m interested in Robust Web Development.
 - 🌱 I’m currently learning NEXTJS and Prisma 
 - 💞️ I’m looking to collaborate on 
